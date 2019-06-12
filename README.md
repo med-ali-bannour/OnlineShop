@@ -1,2 +1,2 @@
 # OnlineShop
-This a  online shoop project written in Java.
+This a  online shopping project written in Java.
